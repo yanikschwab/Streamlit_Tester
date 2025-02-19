@@ -1,7 +1,6 @@
 Pillow
 pytesseract
 streamlit
-os
-pdf2image
 poppler
+pdf2image
 json
