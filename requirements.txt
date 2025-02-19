@@ -1,6 +1,10 @@
 Pillow
 pytesseract
 streamlit
+<<<<<<< HEAD
+=======
+os
+>>>>>>> origin/main
 poppler
 pdf2image
 json
